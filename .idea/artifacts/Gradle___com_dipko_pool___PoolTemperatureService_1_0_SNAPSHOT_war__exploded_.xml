@@ -1,0 +1,43 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Gradle : com.dipko.pool : PoolTemperatureService-1.0-SNAPSHOT.war (exploded)">
+    <output-path>$PROJECT_DIR$/build/libs/exploded/PoolTemperatureService-1.0-SNAPSHOT.war</output-path>
+    <properties id="gradle-properties">
+      <options external-project-path="$PROJECT_DIR$">
+        <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQoNCg==</manifest>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/build/libs/exploded/PoolTemperatureService-1.0-SNAPSHOT.war/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="PoolTemperatureService_main/web/Web Gradle : PoolTemperatureService-1.0-SNAPSHOT.war" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="PoolTemperatureService_main" />
+          <element id="dir-copy" path="$PROJECT_DIR$/out/production/resources" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Gradle: javax.ws.rs:javax.ws.rs-api:2.0.1" />
+          <element id="library" level="project" name="Gradle: org.glassfish.jersey.containers:jersey-container-servlet:2.15" />
+          <element id="library" level="project" name="Gradle: javax.servlet:javax.servlet-api:3.1.0" />
+          <element id="library" level="project" name="Gradle: org.glassfish.jersey.containers:jersey-container-servlet-core:2.15" />
+          <element id="library" level="project" name="Gradle: org.glassfish.jersey.core:jersey-common:2.15" />
+          <element id="library" level="project" name="Gradle: org.glassfish.jersey.core:jersey-server:2.15" />
+          <element id="library" level="project" name="Gradle: org.glassfish.hk2.external:javax.inject:2.4.0-b06" />
+          <element id="library" level="project" name="Gradle: javax.annotation:javax.annotation-api:1.2" />
+          <element id="library" level="project" name="Gradle: org.glassfish.jersey.bundles.repackaged:jersey-guava:2.15" />
+          <element id="library" level="project" name="Gradle: org.glassfish.hk2:hk2-api:2.4.0-b06" />
+          <element id="library" level="project" name="Gradle: org.glassfish.hk2:hk2-locator:2.4.0-b06" />
+          <element id="library" level="project" name="Gradle: org.glassfish.hk2:osgi-resource-locator:1.0.1" />
+          <element id="library" level="project" name="Gradle: org.glassfish.jersey.core:jersey-client:2.15" />
+          <element id="library" level="project" name="Gradle: javax.validation:validation-api:1.1.0.Final" />
+          <element id="library" level="project" name="Gradle: org.glassfish.hk2:hk2-utils:2.4.0-b06" />
+          <element id="library" level="project" name="Gradle: org.glassfish.hk2.external:aopalliance-repackaged:2.4.0-b06" />
+          <element id="library" level="project" name="Gradle: org.javassist:javassist:3.18.1-GA" />
+          <element id="library" level="project" name="Gradle: javax.inject:javax.inject:1" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.json/json/20090211/c183aa3a2a6250293808bba12262c8920ce5a51c/json-20090211.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
